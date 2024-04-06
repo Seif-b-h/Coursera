@@ -1,3 +1,2 @@
-# Coursera
-## Tools for Data Science Course
+# Coursera: Tools for Data Science Course
 Assignments and Projects
